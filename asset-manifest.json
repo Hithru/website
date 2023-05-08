@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Hithru/website/static/css/main.073c9b0a.css",
-    "main.js": "/Hithru/website/static/js/main.573f4706.js",
-    "static/js/787.71e672d5.chunk.js": "/Hithru/website/static/js/787.71e672d5.chunk.js",
-    "static/media/logo.svg": "/Hithru/website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Hithru/website/index.html",
-    "main.073c9b0a.css.map": "/Hithru/website/static/css/main.073c9b0a.css.map",
-    "main.573f4706.js.map": "/Hithru/website/static/js/main.573f4706.js.map",
-    "787.71e672d5.chunk.js.map": "/Hithru/website/static/js/787.71e672d5.chunk.js.map"
+    "main.css": "/website/static/css/main.073c9b0a.css",
+    "main.js": "/website/static/js/main.ca9bf448.js",
+    "static/js/787.71e672d5.chunk.js": "/website/static/js/787.71e672d5.chunk.js",
+    "static/media/logo.svg": "/website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/website/index.html",
+    "main.073c9b0a.css.map": "/website/static/css/main.073c9b0a.css.map",
+    "main.ca9bf448.js.map": "/website/static/js/main.ca9bf448.js.map",
+    "787.71e672d5.chunk.js.map": "/website/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.573f4706.js"
+    "static/js/main.ca9bf448.js"
   ]
 }
